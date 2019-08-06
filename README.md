@@ -1,2 +1,3 @@
 # WebService
-servicio web realizado en c# utilizando ServiceStack, que permite realizar diferentes operaciones aritmética.
+servicio web que permite realizar diferentes operaciones aritmética.
+Este servicio fue realizado en el leguje c# utilizando el framework ServiceStack.
